@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RachelSandwich</string>
+    <string name="program_name">Rachel Sandwiches</string>
+    <string name="edit_explanation">Yours order is waiting for Rachel. You can still change it or delete if you want to.</string>
+    <string name="welcome_greeting">Hii </string>
+    <string name="order_ready">Your order is ready!!!</string>
+    <string name="content_description_fot_it">gif_sandwich_in_progress</string>
+    <string name="name_edit_hint">your name</string>
+    <string name="pickles">Pickles :</string>
+    <string name="hummus">Hummus :</string>
+    <string name="tahini">Tahini :</string>
+    <string name="comments">Comments :</string>
+    <string name="your_comments">your comments</string>
+    <string name="in_progress_explain">Your order is in the making. It will be ready very soon.</string>
+    <string name="name">Name :</string>
+    <string name="gif_for_waiting">gif for waiting</string>
+    <string name="logo">rachel Logo</string>
+    <string name="plus">+</string>
+    <string name="zero">0</string>
+    <string name="minus">-</string>
+    <string name="send_order_button">send order button</string>
+    <string name="gotit_buttom">gotit buttom</string>
+</resources>

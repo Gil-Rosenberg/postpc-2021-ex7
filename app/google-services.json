@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629327252094",
+    "project_id": "postpc-2021-ex7-6961d",
+    "storage_bucket": "postpc-2021-ex7-6961d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629327252094:android:be57154e0352b58ed9e62f",
+        "android_client_info": {
+          "package_name": "huji.postpc.y2021.gilrosenberg.rachels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629327252094-qf8lv7i4ov8794vptm1tovo59sa460i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3pcbScVHVDBg-49ow_-gFeJkxHDszjcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629327252094-qf8lv7i4ov8794vptm1tovo59sa460i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
